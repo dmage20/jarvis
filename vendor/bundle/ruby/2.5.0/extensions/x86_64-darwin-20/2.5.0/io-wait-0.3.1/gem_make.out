@@ -1,0 +1,11 @@
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+/Users/macintosh/.rbenv/versions/2.5.8/bin/ruby -I /Users/macintosh/.rbenv/versions/2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20240219-36777-c20h17.rb extconf.rb
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" clean
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR="
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" install

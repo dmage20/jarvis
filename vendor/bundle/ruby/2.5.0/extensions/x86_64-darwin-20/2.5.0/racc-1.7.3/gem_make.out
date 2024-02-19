@@ -1,0 +1,16 @@
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/macintosh/.rbenv/versions/2.5.8/bin/ruby -I /Users/macintosh/.rbenv/versions/2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20240219-36777-1qzyp5e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/2.5.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240219-36777-6lsdtc/racc

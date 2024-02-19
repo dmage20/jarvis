@@ -1,0 +1,21 @@
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/io-wait-0.3.1/ext/io/wait
+/Users/macintosh/.rbenv/versions/3.0.5/bin/ruby -I /Users/macintosh/.rbenv/versions/3.0.5/lib/ruby/3.0.0 -r ./siteconf20240219-47991-zicokc.rb extconf.rb
+checking for rb_io_wait()... yes
+checking for rb_io_descriptor()... no
+checking for sys/ioctl.h... yes
+checking for FIONREAD in sys/ioctl.h,sys/ioctl.h... yes
+creating Makefile
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/io-wait-0.3.1/ext/io/wait
+make DESTDIR\= clean
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/io-wait-0.3.1/ext/io/wait
+make DESTDIR\=
+compiling wait.c
+linking shared-object io/wait.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/io-wait-0.3.1/ext/io/wait
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 wait.bundle ./.gem.20240219-47991-b0ly3g/io

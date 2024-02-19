@@ -1,0 +1,19 @@
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/digest-3.1.1/ext/digest/sha2
+/Users/macintosh/.rbenv/versions/3.0.5/bin/ruby -I /Users/macintosh/.rbenv/versions/3.0.5/lib/ruby/3.0.0 -r ./siteconf20240219-47991-vbva7f.rb extconf.rb
+checking for CommonCrypto/CommonDigest.h... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= clean
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\=
+compiling sha2init.c
+linking shared-object digest/sha2.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/macintosh/Daniel/Learning/jarvis/vendor/bundle/ruby/3.0.0/gems/digest-3.1.1/ext/digest/sha2
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 sha2.bundle ./.gem.20240219-47991-bxdkjy/digest
